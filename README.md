@@ -1,6 +1,6 @@
 # Telegram Users Scraper
 
-This project is used to scrape Telegram User details from the Group(s).
+This script can scrape Telegram User details from the Group(s).
 
 ## Deployment
 
